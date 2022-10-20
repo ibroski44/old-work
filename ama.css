@@ -1,0 +1,39 @@
+body{
+    margin: 0%;
+    background-color: gray;
+}
+.der{
+    background-color: aqua;
+    padding-top: 10px;
+}
+.up{
+    text-align: end;
+   margin-top: -45px;
+    padding-bottom: 20px;
+    padding-right: 90px;
+   
+}
+a{
+    padding-right: 20px;
+}
+.qs{
+   text-align: center; 
+}
+.qa{
+    font-size: xx-large;
+    padding-left: 15px;
+}
+.qw{
+    font-size: large;
+    text-align: center;
+}
+.ret{
+    padding-left: 15px;
+}
+img{
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.my{
+    padding-left: 40px;
+}
